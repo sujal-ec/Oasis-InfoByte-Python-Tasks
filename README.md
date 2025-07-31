@@ -15,12 +15,6 @@ The application allows users to input their weight and height, calculates their 
 
 ---
 
-## 🖼️ Screenshot
-
-![App Screenshot](screenshot.png)  
-*📌 Replace this with an actual screenshot image of your GUI.*
-
----
 
 ## 🚀 How to Use
 
